@@ -1,16 +1,61 @@
-### Hi there 👋
+## Hey there 👋, I'm [Goke!](https://github.com/ghowkay/)
 
-<!--
-**ghowkay/ghowkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<a href="https://www.linkedin.com/in/goke-o-109b3683/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+ <a href="https://medium.com/@datapulse" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+  <a href="https://stackoverflow.com/users/6070546/ghowkay" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=071A2C" alt="Stackoverflow"/>
+  </a>
+  <a href="https://x.com/datapulsebygoke" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="Twitter"/>
+</center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 I regularly write articles:
+  - On [Medium](https://medium.com/@datapulse) about data engineering and Tech
+
+## 📚 Latest Medium Stories
+<!-- MEDIUM-STORY-LIST:START -->
+- [Fortifying Your Data Pipelines: Essential Security Practices](https://medium.com/@datapulse/fortifying-your-data-pipelines-essential-security-practices-d2fa14c02faf?source=user_profile---------0----------------------------)
+- [Cutting Costs, Not Corners: Smart Data Pipeline Optimization in AWS](https://medium.com/@datapulse/cutting-costs-not-corners-smart-data-pipeline-optimization-in-aws-55016205ada9)
+<!-- MEDIUM-STORY-LIST:END -->
+
+## StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+- [Answer by ghowkay for What&#39;s the correct ES index](https://stackoverflow.com/questions/77381493/whats-the-correct-es-index/77382484#77382484)
+
+<!-- STACKOVERFLOW:END -->
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white)
+![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/NiFi-017081?style=flat&logo=apache-nifi&logoColor=white)
+![](https://img.shields.io/badge/Hadoop-DAA520?style=flat&logo=hadoop&logoColor=white)
+![](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
+![](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
