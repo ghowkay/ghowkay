@@ -26,13 +26,14 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by ghowkay for What&#39;s the correct ES index](https://stackoverflow.com/questions/77381493/whats-the-correct-es-index/77382484#77382484)
+- [Answer by ghowkay for Identifying specific items in a df list field to update other fields, at scale](https://stackoverflow.com/questions/77975349/identifying-specific-items-in-a-df-list-field-to-update-other-fields-at-scale/77978851#77978851)
 
 <!-- STACKOVERFLOW:END -->
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
