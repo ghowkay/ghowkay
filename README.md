@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=071A2C" alt="Stackoverflow"/>
   </a>
   <a href="https://x.com/datapulsebygoke" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
 </center>
 
 
@@ -33,7 +33,7 @@
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/java-3776AB?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
