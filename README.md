@@ -28,6 +28,10 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by ghowkay for Identifying specific items in a df list field to update other fields, at scale](https://stackoverflow.com/questions/77975349/identifying-specific-items-in-a-df-list-field-to-update-other-fields-at-scale/77978851#77978851)
 
+- [Answer by ghowkay for Join two dataframes to get data into another dataframe and create a new column in pyspark](https://stackoverflow.com/questions/77994776/join-two-dataframes-to-get-data-into-another-dataframe-and-create-a-new-column-i/77995149#77995149)
+
+- [Answer by ghowkay for How to inspect the number of events on a Kafka topic using the CLI?](https://stackoverflow.com/questions/78012679/how-to-inspect-the-number-of-events-on-a-kafka-topic-using-the-cli/78012751#78012751)
+
 <!-- STACKOVERFLOW:END -->
 
 ## 💼 Technical Skills
